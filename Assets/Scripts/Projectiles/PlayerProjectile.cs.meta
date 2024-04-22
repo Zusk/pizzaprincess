@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9fa275ef54a83b88ba55145193b38e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particleGameObject: {instanceID: 0}
+  - magicalGib: {fileID: 4817665565020593499, guid: fc060fed356d439a592d9543741195d3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
